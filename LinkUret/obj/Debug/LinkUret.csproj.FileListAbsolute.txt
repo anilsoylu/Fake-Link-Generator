@@ -1,0 +1,20 @@
+D:\MY WORK\DESKTOPSAPP\LinkUret\LinkUret\bin\Debug\LinkUret.exe.config
+D:\MY WORK\DESKTOPSAPP\LinkUret\LinkUret\bin\Debug\LinkUret.exe
+D:\MY WORK\DESKTOPSAPP\LinkUret\LinkUret\bin\Debug\LinkUret.pdb
+D:\MY WORK\DESKTOPSAPP\LinkUret\LinkUret\obj\Debug\LinkUret.csprojAssemblyReference.cache
+D:\MY WORK\DESKTOPSAPP\LinkUret\LinkUret\obj\Debug\LinkUret.Properties.Resources.resources
+D:\MY WORK\DESKTOPSAPP\LinkUret\LinkUret\obj\Debug\LinkUret.csproj.GenerateResource.cache
+D:\MY WORK\DESKTOPSAPP\LinkUret\LinkUret\obj\Debug\LinkUret.csproj.CoreCompileInputs.cache
+D:\MY WORK\DESKTOPSAPP\LinkUret\LinkUret\obj\Debug\LinkUret.exe
+D:\MY WORK\DESKTOPSAPP\LinkUret\LinkUret\obj\Debug\LinkUret.pdb
+D:\MY WORK\DESKTOPSAPP\LinkUret\LinkUret\obj\Debug\LinkUret.Form1.resources
+E:\DESKTOPSAPP\LinkUret\LinkUret\bin\Debug\LinkUret.exe.config
+E:\DESKTOPSAPP\LinkUret\LinkUret\bin\Debug\LinkUret.exe
+E:\DESKTOPSAPP\LinkUret\LinkUret\bin\Debug\LinkUret.pdb
+E:\DESKTOPSAPP\LinkUret\LinkUret\obj\Debug\LinkUret.csproj.AssemblyReference.cache
+E:\DESKTOPSAPP\LinkUret\LinkUret\obj\Debug\LinkUret.Form1.resources
+E:\DESKTOPSAPP\LinkUret\LinkUret\obj\Debug\LinkUret.Properties.Resources.resources
+E:\DESKTOPSAPP\LinkUret\LinkUret\obj\Debug\LinkUret.csproj.GenerateResource.cache
+E:\DESKTOPSAPP\LinkUret\LinkUret\obj\Debug\LinkUret.csproj.CoreCompileInputs.cache
+E:\DESKTOPSAPP\LinkUret\LinkUret\obj\Debug\LinkUret.exe
+E:\DESKTOPSAPP\LinkUret\LinkUret\obj\Debug\LinkUret.pdb
